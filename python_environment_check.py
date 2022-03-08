@@ -43,10 +43,10 @@ def check_packages(d):
 
 if __name__ == '__main__':
     d = {
-        'numpy': '1.21.2',
-        'scipy': '1.7.0',
-        'matplotlib': '3.4.3',
-        'sklearn': '1.0',
-        'pandas': '1.3.2'
+        'numpy': '1.22.3',
+        'scipy': '1.8.0',
+        'matplotlib': '3.5.1',
+        'sklearn': '1.0.2',
+        'pandas': '1.4.1'
     }
     check_packages(d)
